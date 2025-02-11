@@ -1,5 +1,5 @@
 # Cómo ejecutar scripts automaticos via CLI en Raspberry Pi Pico
-usa mpremote, puedes ejecutar los scripts directamente desde tu computadora:
+usa mpremote, puedes ejecutar los scripts directamente via terminal:
 
 Cómo usar mpremote en cada sistema operativo
 
