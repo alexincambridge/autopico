@@ -31,3 +31,9 @@ mpremote cp reinicio.py :main.py
 mpremote reboot
 
 Cada vez que copies un script como main.py, se ejecutará automáticamente al reiniciar la Pico.
+
+troubleshooting detecting USB
+sudo modprobe usbserial
+sudo modprobe ftdi_sio
+sudo usermod -a -G dialout $USER
+sudo chmod 666 /dev/ttyACM0
