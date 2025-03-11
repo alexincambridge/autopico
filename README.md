@@ -39,5 +39,6 @@ Cada vez que copies un script como main.py, se ejecutará automáticamente al re
 <h2>troubleshooting detecting USB</h2> 
 - sudo modprobe usbserial.
 - sudo modprobe ftdi_sio.
-- sudo usermod -a -G dialout $USER
-- sudo chmod 666 /dev/ttyACM0
+- sudo usermod -a -G dialout $USER.
+- sudo chmod 666 /dev/ttyACM0.
+
