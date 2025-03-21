@@ -4,7 +4,7 @@
 
 - Cómo usar mpremote en cada sistema operativo
 
-🔹 En Linux/macOS puedes conectarte a Raspberry Pi Pico con:
+# En Linux/macOS puedes conectarte a Raspberry Pi Pico con:
 
 - mpremote connect list
 
@@ -15,7 +15,7 @@
 Si ves un puerto como /dev/ttyUSB0 o /dev/ttyACM0, conéctate con:
 mpremote connect /dev/ttyUSB0
 
-🔹 En Windows
+# En Windows
 
 Para ver los puertos disponibles, usa:
 
